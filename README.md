@@ -1,3 +1,18 @@
+![Uploading Screenshot 2026-08-28 163417.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Skin Cancer Detection using CNN with Hair Removal Algorithm
 
 ## Project Overview
